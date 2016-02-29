@@ -10,6 +10,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git this is my first project on git");
+            Console.WriteLine("Test Update on Git");
             Console.ReadKey();
         }
     }
