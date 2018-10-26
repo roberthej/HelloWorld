@@ -13,6 +13,7 @@ namespace HelloWorld
             Console.WriteLine("Test Update on Git");
             Console.WriteLine("New Branch");
             Console.WriteLine("First Pull request");
+            Console.WriteLine("Second Pull request");
             Console.ReadKey();
         }
     }
