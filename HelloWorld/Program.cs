@@ -12,9 +12,10 @@ namespace HelloWorld
             Console.WriteLine("Hello Git this is my first project on git");
             Console.WriteLine("Test Update on Git");
             Console.WriteLine("New Branch");
-            Console.WriteLine("First Pull request");
-            Console.WriteLine("Second Pull request v2.0");
-            Console.WriteLine("Second Pull request v2.1");
+            Console.WriteLine("Pull request");
+            Console.WriteLine("Pull request v2.0");
+            Console.WriteLine("Pull request v2.1");
+            Console.WriteLine("Pull request v2.2");
             Console.ReadKey();
         }
     }
